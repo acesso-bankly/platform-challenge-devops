@@ -15,5 +15,5 @@ Recursos de infraestrutura em nuvem devem sempre ser criados utilizando gerencia
 
 # Notas
 
-- Todos os recursos devem ser criados utilizando os créditos gratuitos da AWS ou GCP.
+- Todos os recursos devem ser criados utilizando os créditos gratuitos da AWS.
 - Não esquecer de destruir os recursos após criação e testes do desafio para não haver cobranças ou esgotamento dos créditos.
