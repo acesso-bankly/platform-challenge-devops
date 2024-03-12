@@ -1,6 +1,6 @@
 # Desafio Bankly
 
-Objetivo é concluir o desafio com objetivo de treinar as suas habilidades técnicas para atuar como Devops.
+Concluir o desafio com objetivo de treinar as suas habilidades técnicas para atuar como Devops.
 
 - [Terraform](./Terraform/README.md)
 - [Docker](./Docker/README.md)
@@ -9,7 +9,6 @@ Objetivo é concluir o desafio com objetivo de treinar as suas habilidades técn
 # Como entregar estes desafios
 
 Você deve realizar o fork este projeto e fazer o push no seu próprio repositório e enviar o link como resposta ao recrutador que lhe enviou o teste.
-
 
 A implementação deve ficar na pasta correspondente ao desafio. Fique à vontade para adicionar qualquer tipo de conteúdo que julgue útil ao projeto, alterar/acrescentar um README com instruções de como executá-lo, etc.
 
