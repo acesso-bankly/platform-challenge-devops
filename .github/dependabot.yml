@@ -9,18 +9,5 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "docker"
-    # Look for a `Dockerfile` in the `root` directory
-    directory: "/"
-    # Check for updates once a week
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "package.json"
-    # Look for a `Dockerfile` in the `root` directory
-    directory: "/Docker/app"
-    schedule:
-      interval: "daily"
+  - package-ecosystem: "docker" # See documentation for possible values
+    directory: "/" # Location of package manifests
