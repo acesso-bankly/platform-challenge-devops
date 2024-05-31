@@ -21,7 +21,6 @@ updates:
       interval: "daily"
   - package-ecosystem: "package.json"
     # Look for a `Dockerfile` in the `root` directory
-    directory: "/Docker/app"
-    # Check for updates once a week
+    directory: "/"
     schedule:
       interval: "daily"
