@@ -19,11 +19,3 @@ updates:
     # Check for updates once a week
     schedule:
       interval: "daily"
-name: CI
-on: pull_request
-
-# Set the access for individual scopes, or use permissions: write-all
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
