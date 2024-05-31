@@ -19,3 +19,7 @@ updates:
     # Check for updates once a week
     schedule:
       interval: "daily"
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
