@@ -6,10 +6,10 @@
 version: 2
 updates:
   - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/" # Location of package manifests
+    directory: "/Docker/app/" # Location of package manifests
     schedule:
       interval: "daily"
   - package-ecosystem: "docker" # See documentation for possible values
-    directory: "/" # Location of package manifests
+    directory: "/Docker/" # Location of package manifests
     schedule:
       interval: "daily"
